@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\Risk-Model\RiskModel\RiskModel\bin\Debug\RiskModel.exe.config
+C:\Users\Administrator\Desktop\Risk-Model\RiskModel\RiskModel\bin\Debug\RiskModel.exe
+C:\Users\Administrator\Desktop\Risk-Model\RiskModel\RiskModel\bin\Debug\RiskModel.pdb
+C:\Users\Administrator\Desktop\Risk-Model\RiskModel\RiskModel\obj\Debug\RiskModel.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Risk-Model\RiskModel\RiskModel\obj\Debug\RiskModel.Form1.resources
+C:\Users\Administrator\Desktop\Risk-Model\RiskModel\RiskModel\obj\Debug\RiskModel.KallyControl.resources
+C:\Users\Administrator\Desktop\Risk-Model\RiskModel\RiskModel\obj\Debug\RiskModel.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Risk-Model\RiskModel\RiskModel\obj\Debug\RiskModel.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Risk-Model\RiskModel\RiskModel\obj\Debug\RiskModel.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Risk-Model\RiskModel\RiskModel\obj\Debug\RiskModel.exe
+C:\Users\Administrator\Desktop\Risk-Model\RiskModel\RiskModel\obj\Debug\RiskModel.pdb
+C:\Users\Administrator\Desktop\Risk-Model\RiskModel\RiskModel\obj\Debug\RiskModel.MarkWoziControl.resources
+C:\Users\Administrator\Desktop\Risk-Model\RiskModel\RiskModel\obj\Debug\RiskModel.AssetForm.resources
